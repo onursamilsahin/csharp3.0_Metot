@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp3.0_Metot", "csharp3.0_Metot\csharp3.0_Metot.csproj", "{45F2A98A-9488-47CC-80F4-787ADC17384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotUygulama", "MetotUygulama\MetotUygulama.csproj", "{5101D272-1A4A-438A-A298-73769E93CEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F2A98A-9488-47CC-80F4-787ADC17384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F2A98A-9488-47CC-80F4-787ADC17384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F2A98A-9488-47CC-80F4-787ADC17384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F2A98A-9488-47CC-80F4-787ADC17384B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5101D272-1A4A-438A-A298-73769E93CEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5101D272-1A4A-438A-A298-73769E93CEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5101D272-1A4A-438A-A298-73769E93CEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5101D272-1A4A-438A-A298-73769E93CEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B049FEDC-8815-4A21-A3CC-1A84E16F6A20}
+	EndGlobalSection
+EndGlobal
